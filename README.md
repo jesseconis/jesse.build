@@ -32,7 +32,7 @@ pnpm install
 ./scripts/dev.sh
 ```
 
-### Setup pnpm ~~~(optional)~~~
+### Setup pnpm ~~(optional)~~
 
 If you are using `pnpm`, you need to add the following code to your `.npmrc` file:
 
